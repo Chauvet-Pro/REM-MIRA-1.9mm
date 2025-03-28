@@ -7,3 +7,7 @@ The Chauvet Professional REM MIRA 1.9MM comes in 2 flavors-1000x500mm and thhe 5
 Please review the serial number prefix ("A", "B", ect) of your panels. Then, navigate to the appropriate folder for your LED batch. Selecting the incorrect LED batch will casue the color calibration to show incorrectly.
 
 These firmware files are intended to be uploaded with the [Novastar Coex VMP software](https://www.novastar.tech/downloads/).
+
+## Software Versions
+
+[REM MIRA 1.9MM, Batch "A"](https://github.com/Chauvet-Pro/REM-1/blob/main/NCP_Files/REM1_NCP_file_BatchA_V1.00.03.ncp)
