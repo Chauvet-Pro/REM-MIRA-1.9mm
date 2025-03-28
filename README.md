@@ -10,4 +10,4 @@ These firmware files are intended to be uploaded with the [Novastar Coex VMP sof
 
 ## Software Versions
 
-[REM MIRA 1.9MM, Batch "A"](https://github.com/Chauvet-Pro/REM-1/blob/main/NCP_Files/REM1_NCP_file_BatchA_V1.00.03.ncp)
+[REM MIRA 1.9MM, Batch "A"](https://github.com/Chauvet-Pro/REM-MIRA-1.9mm/blob/main/NCP_Files/Chauvet%20Professional%20Batch%20A%20REMMIRA19MMV1.00.01.ncp)
