@@ -1,6 +1,6 @@
 # REM-MIRA-1.9mm
 
-The Chauvet Professional REM MIRA 1.9MM comes in 2 flavors-1000x500mm and thhe 500x500mm. The smaller of the 2 is referred to as the "SQ", or "square" panel. The SQ requires a different version of the software, or NCP file.
+The Chauvet Professional REM MIRA 1.9MM comes in 2 flavors-1000x500mm and the 500x500mm. The smaller of the 2 is referred to as the "SQ", or "square" panel. The SQ requires a different version of the software, or NCP file.
 
 ## Control Software
 
@@ -10,6 +10,6 @@ These firmware files are intended to be uploaded with the [Novastar Coex VMP sof
 
 ## Software Versions
 
-[REM MIRA 1.9MMV1, "Lot# C246243"](https://github.com/Chauvet-Pro/REM-MIRA-1.9mm/blob/main/NCP_Files/Chauvet%20Professional%20Batch%20A%20REMMIRA19MMV1.00.01.ncp)
+[REM MIRA 1.9MM V1, "Lot# C246243"](https://github.com/Chauvet-Pro/REM-MIRA-1.9mm/blob/main/NCP_Files/Chauvet%20Professional%20Batch%20A%20REMMIRA19MMV1.00.01.ncp)
 
-[REM MIRA 1.9MMSQV1, "Lot# C246243"](https://github.com/Chauvet-Pro/REM-MIRA-1.9mm/blob/main/NCP_Files/Chauvet%20Professional%20Batch%20A%20REMMIRA19MMSQV1.00.01.ncp)
+[REM MIRA 1.9MM SQ V1, "Lot# C246243"](https://github.com/Chauvet-Pro/REM-MIRA-1.9mm/blob/main/NCP_Files/Chauvet%20Professional%20Batch%20A%20REMMIRA19MMSQV1.00.01.ncp)
