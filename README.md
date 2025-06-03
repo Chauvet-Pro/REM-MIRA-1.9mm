@@ -16,6 +16,8 @@ These firmware files are intended to be uploaded with the [Novastar Coex VMP sof
 V*.*.*.ncp
 - launching version
 
+[REM MIRA 1.9MM BATCH B, "Lot# D246442"]
+
 [REM MIRA 1.9MM SQ V1, "Lot# C246243"](https://github.com/Chauvet-Pro/REM-MIRA-1.9mm/blob/main/NCP_Files/REM1SQ%20Batch%20A%20Updated%20ncp%20file%20V1.00.04.zip)
 
 V*.*.*.ncp
