@@ -32,4 +32,7 @@ V*.*.*.ncp
 V*.*.*.ncp
 - launching version
 
-[REM MIRA 1.9MM SQ V1, "Lot# J266090"]
+[REM MIRA 1.9MM SQ V1, "Lot# J266090"](https://github.com/Chauvet-Pro/REM-MIRA-1.9mm/raw/refs/heads/main/NCP_Files/Chauvet%20Professional_REMMIRA19MMSQ_500x500%20LOT%23%20J266090%20V1.2.1.CTM9902_B1.ncp)
+
+V*.*.*.ncp
+- launching version
