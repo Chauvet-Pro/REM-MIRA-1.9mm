@@ -20,10 +20,12 @@ V*.*.*.ncp
 V*.*.*.ncp
 - launching version
 
+[REM MIRA 1.9MM V1, "LoT# J266090"](https://github.com/Chauvet-Pro/REM-MIRA-1.9mm/raw/refs/heads/main/NCP_Files/Chauvet%20Professional_REMMIRA19MM_1000x500%20LOT%23%20J266090%20V1.2.1.CTM9902_B1.ncp)
+V*.*.*.ncp
+
+# REM-MIRA-1.9mmSQ
+
 [REM MIRA 1.9MM SQ V1, "Lot# C246243"](https://github.com/Chauvet-Pro/REM-MIRA-1.9mm/raw/refs/heads/main/NCP_Files/Chauvet%20Professional%20Batch%20A%20REMMIRA19MMSQV1.00.01.ncp)
 
 V*.*.*.ncp
 - launching version
-[REM MIRA 1.9MM V1, "LoT# J266090"](https://github.com/Chauvet-Pro/REM-MIRA-1.9mm/raw/refs/heads/main/NCP_Files/Chauvet%20Professional%20REMMIRA19MM%20Batch%20A%20V1.00.01.ncp)
-
-V*.*.*.ncp
